@@ -11,6 +11,8 @@ This guide will help you understand how to use the Attendance Management System.
 3. Ensure the database connection settings in `com.attendance.util.DBConnection` match your MySQL setup
 4. Run the application using Maven or the generated JAR file
 
+
+
 ## Login
 
 - Use one of the following sample login credentials:
@@ -72,11 +74,6 @@ If you encounter any issues:
 4. Check that the JCalendar library is properly included in your classpath
 
 For more technical information, refer to the main README.md file. 
-
-
-
-
-
 
 
 
